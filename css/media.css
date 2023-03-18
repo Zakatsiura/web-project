@@ -1,6 +1,7 @@
 @media screen and (max-width: 1460px) {
     .fastest-way {
         flex-direction: column;
+        margin: 120px auto 0;
     }
 
     .fastest-way__header {
@@ -36,6 +37,10 @@
     .fastest-way__button-text {
         width: 117px;
         height: 28px;
+    }
+
+    .subscription {
+        margin: 100px auto 0;
     }
 
     .subscription__wrapper {
