@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-evenly;
-    margin:auto;
+    margin: auto;
     padding: 43px 0px;
     width: 1440px;
     height: 725px;
@@ -15,9 +15,6 @@
 .subscription__header-mobile {
     display: none;
 }
-
-/* .subscription__header-desktop {
-} */
 
 .subscription__upper-text {
     width: 173px;
@@ -40,26 +37,11 @@
     margin: 17px 0 35px;
 }
 
-/* .subscription__text {
-}
-
-.subscription__subtext {
-} */
-
 .subscription__body {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-
-/* .subscription__body-title {
-}
-
-.subscription__body-text {
-}
-
-.subscription__body-subtext {
-} */
 
 .subscription__form {
     display: flex;
@@ -104,10 +86,9 @@
 }
 
 .subscription__image {
-    width: 677px;
-    height: 514px;
+    width: 100%;
 }
 
-/* for mobile:
-.subscription__title-subtext {}
-*/
+.subscription__image-mobile {
+    display: none;
+}

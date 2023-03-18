@@ -1,6 +1,3 @@
-/* .partners {
-} */
-
 .partners__header {
     margin-top: 70px;
 }
@@ -39,6 +36,10 @@
     height: 330px;
 }
 
+.partners__logos-mobile {
+    display: none;
+}
+
 .partners__name {
     width: 255px;
     height: 165px;
@@ -63,6 +64,6 @@
     font-size: 20px;
     line-height: 28px;
     letter-spacing: 0.1px;
-    color: #ffffff;
+    color: var(--white-color);
     text-decoration: none;
 }

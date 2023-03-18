@@ -2,9 +2,6 @@
     margin-top: 207px;
 }
 
-/* .testimonials__header {
-} */
-
 .testimonials__header-title {
     width: 281px;
     height: 55px;
@@ -42,12 +39,6 @@
     width: 187px;
     margin: 60px auto;
 }
-
-/* .testimonials__footer-logo {
-}
-
-.testimonials__footer-text {
-} */
 
 .testimonials-button {
     display: flex;
