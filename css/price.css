@@ -1,7 +1,7 @@
 .price {
     background-color: var(--footer-background);
     margin-top: 100px;
-    height: 1155px;
+    height: 1255px;
 }
 
 .price__header {
@@ -50,7 +50,6 @@
     padding: 40px;
     gap: 30px;
     width: 335px;
-    height: 607px;
     background: var(--white-color);
     border: 1px solid var(--price-card-border);
     box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
@@ -163,7 +162,6 @@
     padding: 83px 40px;
     gap: 30px;
     width: 335px;
-    height: 693px;
     background: var(--button-color);
     border: 1px solid var(--price-card-border);
     box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
